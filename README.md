@@ -30,7 +30,7 @@
 
  
 <div align="center">
-  <a href="https://hanqmin.straw.page">
+  <a href="https://pawtography.straw.page">
     <img src="https://cdn.phototourl.com/member/2026-10-02-1d072bb8-462e-420b-92b2-3aa949cd73dd.png" width="49%"/>
   </a>
   <a href="https://hanqmin.atabook.org/">
