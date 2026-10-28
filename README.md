@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=lovelydrugname&label=U・ᴥ・U&color=B783AA)    <img src="https://cdn.phototourl.com/member/2026-09-30-55ff42ea-f15b-4872-9854-5021c3ecf87e.gif" width="46">
+![](https://komarev.com/ghpvc/?username=lovelydrugname&label=U・ᴥ・U&color=B783AA)    <img src="https://cdn.phototourl.com/member/2026-10-28-06b77574-c1fa-46d6-814a-4c64e760d718.png" width="46">
 
 <img src="https://cdn.phototourl.com/member/2026-10-28-36f574e9-1e47-4153-a27b-49eb5ed585ab.png" width="100%"> 
 
