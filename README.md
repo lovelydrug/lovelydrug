@@ -12,7 +12,7 @@
 <div align="center">
 
 
-
+&nbsp; &nbsp;
 
  
 <div align="center">
@@ -24,23 +24,7 @@
   </a>
 </div>
 
-&nbsp; &nbsp;
 
-<table border="0" width="100%">
-  <tr>
-    <!-- Left Column: The expandable dropdown and names -->
-    <td width="55%" align="left" valign="top">
-      <details>
-        <summary><b>silly &nbsp; bakas &nbsp;ᐡ ᐧ ﻌ ᐧ ᐡ </b></summary>
-       <!-- You can add text, links, or lists for your friends here -->
-        <span style="font-size: 10 px;">‹ &nbsp;yann &nbsp; chucky &nbsp; fishy &nbsp;𝟹 ← wifeys &nbsp; shade &nbsp; vyn &nbsp;‹ &nbsp; mikyii &nbsp; khas &nbsp;𝟹 ← ma lads trio &nbsp; tagli &nbsp; nashi  &nbsp; nez &nbsp; six &nbsp; kevvy &nbsp; hani &nbsp; mocha &nbsp; citron &nbsp; &nbsp; &nbsp; &nbsp;  + other oomfies!</span>
-      </td>
-      <td width="50%" align="right" valign="middle">
-        <img src="https://cdn.phototourl.com/member/2026-10-28-1c3d0dd5-a606-4761-8ec3-3ba2399e5a90.png" width="250" alt="Friends hugging art"/>
-      </td>
-    </tr>
-  </table>
-</details>
 
 &nbsp; &nbsp;
  
