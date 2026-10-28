@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=lovelydrugname&label=U・ᴥ・U&color=B783AA)    <img src="https://cdn.phototourl.com/member/2026-10-28-06b77574-c1fa-46d6-814a-4c64e760d718.png" width="46">
 
-<img src="https://cdn.phototourl.com/member/2026-10-28-36f574e9-1e47-4153-a27b-49eb5ed585ab.png" width="100%"> 
+<img src="https://cdn.phototourl.com/member/2026-10-28-d152ddcc-dd4a-4dc7-8965-b7904dd9999d.png" width="100%"> 
 
  
  
