@@ -12,6 +12,20 @@
 <div align="center">
 
 
+
+
+ 
+<div align="center">
+  <a href="https://pawtography.straw.page">
+    <img src="https://cdn.phototourl.com/member/2026-10-28-7d0d731b-1ce2-4610-b849-a5dd16c305f3.png" width="49%"/>
+  </a>
+  <a href="https://hanqmin.atabook.org/">
+    <img src="https://cdn.phototourl.com/member/2026-10-28-bf38831b-c8e6-4196-998e-f562b79c6e51.png" width="49%" style="margin-left: 10 px;" />
+  </a>
+</div>
+
+&nbsp; &nbsp;
+
 <table border="0" width="100%">
   <tr>
     <!-- Left Column: The expandable dropdown and names -->
@@ -28,20 +42,10 @@
   </table>
 </details>
 
+&nbsp; &nbsp;
  
-<div align="center">
-  <a href="https://pawtography.straw.page">
-    <img src="https://cdn.phototourl.com/member/2026-10-28-7d0d731b-1ce2-4610-b849-a5dd16c305f3.png" width="49%"/>
-  </a>
-  <a href="https://hanqmin.atabook.org/">
-    <img src="https://cdn.phototourl.com/member/2026-10-28-bf38831b-c8e6-4196-998e-f562b79c6e51.png" width="49%" style="margin-left: 10 px;" />
-  </a>
-</div>
-
-
-
- 
-<a href="https://github.com/pt-fashion/pt-fashion">𖹭 pt fashion  &nbsp;   <a href="https://github.com/pt-heavyfictkin/pt-heavyfictkin">𖹭 pt heavyfictkin
+&nbsp; <a href="https://github.com/pt-fashion/pt-fashion">𖹭 pt fashion  &nbsp; &nbsp;  <a href="https://github.com/pt-heavyfictkin/pt-heavyfictkin">𖹭 pt heavyfictkin  
+&nbsp; <a href="https://github.com/pt-friendships">𖹭 pt-friendships
 
  
 
