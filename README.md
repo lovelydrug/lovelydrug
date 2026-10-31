@@ -29,7 +29,7 @@
 &nbsp; &nbsp;
  
 &nbsp; <a href="https://github.com/pt-fashion/pt-fashion">𖹭 pt fashion  &nbsp; &nbsp;  <a href="https://github.com/pt-heavyfictkin/pt-heavyfictkin">𖹭 pt heavyfictkin  
-&nbsp; <a href="https://github.com/pt-friendships">𖹭 pt-friendships
+<a href="https://github.com/pt-friendships">𖹭 pt-friendships <a href="https://github.com/pt-everypony">𖹭 pt-everypony
 
  
 
