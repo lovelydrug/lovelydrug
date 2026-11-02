@@ -4,23 +4,20 @@
 
 ![](https://komarev.com/ghpvc/?username=lovelydrugname&label=U・ᴥ・U&color=B783AA)    <img src="https://cdn.phototourl.com/member/2026-10-28-06b77574-c1fa-46d6-814a-4c64e760d718.png" width="46">
 
-<img src="https://cdn.phototourl.com/member/2026-10-28-d152ddcc-dd4a-4dc7-8965-b7904dd9999d.png" width="100%"> 
+<img src="https://cdn.phototourl.com/member/2026-11-02-a4e3365c-0d12-453c-9755-7f45d8b1e3bd.png" width="100%"> 
 
  
  
  
-<div align="center">
 
-
-&nbsp; &nbsp;
 
  
 <div align="center">
   <a href="https://pawtography.straw.page">
-    <img src="https://cdn.phototourl.com/member/2026-10-28-7d0d731b-1ce2-4610-b849-a5dd16c305f3.png" width="49%"/>
+    <img src="https://cdn.phototourl.com/member/2026-11-02-2c7e2f71-1783-482b-8a6b-f348e289d71e.png" width="49%"/>
   </a>
   <a href="https://hanqmin.atabook.org/">
-    <img src="https://cdn.phototourl.com/member/2026-10-28-bf38831b-c8e6-4196-998e-f562b79c6e51.png" width="49%" style="margin-left: 10 px;" />
+    <img src="https://cdn.phototourl.com/member/2026-11-02-44bc3221-149e-470e-9d32-c53c7ad9f6bd.png" width="49%" style="margin-left: 10 px;" />
   </a>
 </div>
 
